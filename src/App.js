@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <Navbar></Navbar>
       <Routes>
-        <Route></Route>
+        <Route path='/' element={<Home></Home>}></Route>
         <Route></Route>
         <Route></Route>
         <Route></Route>
