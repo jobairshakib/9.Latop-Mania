@@ -3,42 +3,42 @@
         "id": "1",
         "name": "Matthew Buzzi",
         "comment": "Amazing build quality, design, and upgradability. Its way oversized for a laptop though.",
-        "image": "https://ibb.co/Pskg5BD",
+        "image": "https://cdn-icons-png.flaticon.com/512/4333/4333609.png",
         "rating":"4.5 out of 5"
     },
     {
         "id": "2",
         "name": "Edward G. Dorman",
         "comment": "I remember back in the day these specs were cutting edge but now it's just your average gaming desktop in a laptop.",
-        "image": "https://ibb.co/RDLSN3R",
+        "image": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
         "rating": "5 out of 5"
     },
     {
         "id": "3",
         "name": "Kenneth F. Smith",
         "comment": "Ah yes. A laptop that can run minecraft at unlimited fps without causing a thermo-nuclear explosion.",
-        "image": "https://ibb.co/GJFr7xR",
+        "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
         "rating": "4.5 out of 5"
     },
     {
         "id": "4",
         "name": "Dana T. Ward",
         "comment": "Kinda amazing that you can get this kind of performance from way lighter and thinner laptops now, which might even be cheaper",
-        "image": "https://ibb.co/zn8xMbJ",
+        "image": "https://cdn-icons-png.flaticon.com/512/4333/4333609.png",
         "rating": "4 out of 5"
     },
     {
         "id": "5",
         "name": "Kristin H. Lee",
         "comment": "Oh my god how far has technology come in 4 years ?? Today's laptops you get for a fraction of the price , are faster and you can carry it around with a backpack . This is hilariously chunky !",
-        "image": "https://ibb.co/C5bSccK",
+        "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
         "rating": "5 out of 5"
     },
     {
         "id": "6",
         "name": "Pamela M. Montgomery",
         "comment": "The Surface Laptop port situation really isn't much better than the M1 Macs. Meh, the port situation isn't a big deal.",
-        "image": "https://ibb.co/yfXGR20",
+        "image": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
         "rating": "4 out of 5"
     }
 ]
