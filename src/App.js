@@ -7,6 +7,7 @@ import Blogs from "./Components/Blogs/Blogs";
 import About from "./Components/About/About";
 
 import { Routes, Route } from "react-router-dom";
+import Error404 from './Components/Error404';
 
 function App() {
   return (
@@ -14,9 +15,11 @@ function App() {
       <Navbar></Navbar>
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
-        <Route></Route>
-        <Route></Route>
-        <Route></Route>
+        <Route path='/reviews' element={<Reviews></Reviews>}></Route>
+        <Route path='/dashboard' element={<Dashboard></Dashboard>}></Route>
+        <Route path='/blogs' element={<Blogs></Blogs>}></Route>
+        <Route path='/blogs' element={<Blogs></Blogs>}></Route>
+        <Route path='*' element={<Error404></Error404>}></Route>
       </Routes>
     </div>
   );
