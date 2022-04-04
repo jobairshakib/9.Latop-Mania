@@ -15,6 +15,7 @@ span h1{
     color: #6232f0;
 }
 button{
+    margin: 1rem;
     padding: 1rem;
     color: #6232f0;
     font-size: 20px;
@@ -23,9 +24,18 @@ button{
     border-radius: 5px;
     cursor: pointer;
 }
-
+button:hover{
+    background-color: #6232f0;
+    color: white;
+}
 .review-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-gap: 1rem;
+}
+
+@media screen and (max-width:768px) {
+    .review-container,.home-container{
+        grid-template-columns: 1fr;
+    }
 }

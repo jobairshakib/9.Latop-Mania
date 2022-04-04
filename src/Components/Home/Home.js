@@ -3,10 +3,12 @@ import useReviews from '../../hooks/useReviews';
 import Review from '../Review/Review';
 import Laptop from '../../laptop.png';
 import './Home.css'
+import { useNavigate } from 'react-router-dom';
 
 const Home = () => {
 
     const [reviews, setReviews] = useReviews();
+    const navigate = useNavigate();
 
     return (
         <div>
@@ -31,6 +33,7 @@ const Home = () => {
                         ></Review>)
                     }
                 </div>
+                <button onClick={() => navigate('/reviews')}>See all Reviews</button>
 
             </div>
         </div>
