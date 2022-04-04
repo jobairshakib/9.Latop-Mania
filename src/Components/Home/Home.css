@@ -23,3 +23,9 @@ button{
     border-radius: 5px;
     cursor: pointer;
 }
+
+.review-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 1rem;
+}

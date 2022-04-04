@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Matthew Buzzi",
+        "comment": "Amazing build quality, design, and upgradability. Its way oversized for a laptop though.",
+        "image": "https://cdn-icons-png.flaticon.com/512/4333/4333609.png"
+    },
+    {
+        "id": "2",
+        "name": "Edward G. Dorman",
+        "comment": "I remember back in the day these specs were cutting edge but now it's just your average gaming desktop in a laptop.",
+        "image": "https://cdn-icons.flaticon.com/png/512/2202/premium/2202112.png?token=exp=1649045282~hmac=a309b1463c9bd6250787b8fdcf73d6db"
+    },
+    {
+        "id": "3",
+        "name": "Kenneth F. Smith",
+        "comment": "Ah yes. A laptop that can run minecraft at unlimited fps without causing a thermo-nuclear explosion.",
+        "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+    },
+    {
+        "id": "4",
+        "name": "Dana T. Ward",
+        "comment": "Kinda amazing that you can get this kind of performance from way lighter and thinner laptops now, which might even be cheaper",
+        "image": "https://cdn-icons.flaticon.com/png/512/4140/premium/4140047.png?token=exp=1649045325~hmac=87da5d4d88f77068cc2451bcc1d5d597"
+    },
+    {
+        "id": "5",
+        "name": "Kristin H. Lee",
+        "comment": "Oh my god how far has technology come in 4 years ?? Today's laptops you get for a fraction of the price , are faster and you can carry it around with a backpack . This is hilariously chunky !",
+        "image": "https://cdn-icons.flaticon.com/png/512/1785/premium/1785896.png?token=exp=1649045325~hmac=69d9fda104b696cf00f56314d03e1ff2"
+    },
+    {
+        "id": "6",
+        "name": "Pamela M. Montgomery",
+        "comment": "The Surface Laptop port situation really isn't much better than the M1 Macs. Meh, the port situation isn't a big deal.",
+        "image": "https://cdn-icons-png.flaticon.com/512/219/219969.png"
+    }
+]
