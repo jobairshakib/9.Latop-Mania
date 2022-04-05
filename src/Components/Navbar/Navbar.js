@@ -1,11 +1,9 @@
 import React from 'react';
 import { NavLink } from "react-router-dom";
-import { useLocation } from "react-router-dom";
 import './Navbar.css'
 
 const Navbar = () => {
 
-    const { pathname } = useLocation();
     return (
         <nav>
             <div className='link-container'>
